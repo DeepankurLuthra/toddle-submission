@@ -1,0 +1,11 @@
+.block-pointer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #cccaca;
+    color: #ffffff;
+    padding: 1rem 1.25rem;
+    margin-right: 3rem;
+    user-select: none;
+    font-size: 1.2rem;
+}
