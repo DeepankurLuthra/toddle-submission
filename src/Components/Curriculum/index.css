@@ -1,0 +1,23 @@
+.curriculum-wrapper{
+    display: flex;
+    width: 100%;
+    height: max-content;
+    padding-bottom: 0.5rem;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #bdbdbd;
+}
+.actionbutton-wrapper{
+    width: 100px;
+    max-width: 100px;
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+.textarea-wrapper{
+min-width: 80%;
+width: 80%;
+overflow-x: hidden;
+
+}
